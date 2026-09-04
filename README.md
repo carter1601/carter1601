@@ -1,1 +1,3 @@
-![carter1601](https://count.getloli.com/@carter1601)
+<p align="center">
+  <img src="https://count.getloli.com/get/@carter1601?theme=gelbooru" />
+</p>
